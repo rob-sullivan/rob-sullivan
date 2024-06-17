@@ -39,8 +39,6 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - Use YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. Go frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
 - [GitHub](https://github.com/rob-sullivan/ai/tree/football-tracking)
 
-https://github.com/rob-sullivan/ai/tree/football-tracking
-
 ### AI PowerPoint Presentation Generator
 
 - Built a flask application that integrates with ChatGPT, DALLE and Microsoft 365 ecosystem.
