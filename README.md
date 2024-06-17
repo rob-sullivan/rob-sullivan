@@ -54,7 +54,7 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 
 ### H&M Clothing Recommendation System
 
-- Explored data and built a collaborate filtering-based recommendation system by feature engineering marketing metrics and training a k-nearest neighbour classifier to predict what products customers will buy in the next 7 days.
+- Explored data and built a collaborate filtering-based recommendation system by feature engineering marketing metrics and training a different ML models to predict what products customers will buy in the next 7 days.
 - [GitHub](https://github.com/rob-sullivan/tu060/blob/machine-learning/ca-2-recommender/attempt-2/hm-recommender.ipynb)
 
 ### Self-Driving Car
