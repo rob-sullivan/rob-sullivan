@@ -30,7 +30,8 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - I used Deep SHAP to explain a sub-component of deep Q learning called Experience Replay and show how its size can be tuned to improve efficiency of a Reinforcement Learning algorithm.
 - Was honoured as the first in TU Dublin's School of computer science to publish in a journal during an MSc.
 - Published this research and presented it at a conference in Lisbon, leading to it being featured on the cover of Machine Learning and Knowledge Extraction scientific journal contributing to the ML community.
-- [Thesis](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1294&context=scschcomdis), [Paper](https://ceur-ws.org/Vol-3554/), [Paper](https://www.mdpi.com/2504-4990/5/4/72)
+- [Thesis](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1294&context=scschcomdis), [Paper](https://ceur-ws.org/Vol-3554/), [Paper](https://www.mdpi.com/2504-4990/5/4/72), [GitHub](https://github.com/rob-sullivan/tu060/tree/research)
+- keywords: 
 
 ## Projects 🚀
 
