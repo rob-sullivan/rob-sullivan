@@ -31,7 +31,7 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - Was honoured as the first in TU Dublin's School of computer science to publish in a journal during an MSc.
 - Published this research and presented it at a conference in Lisbon, leading to it being featured on the cover of Machine Learning and Knowledge Extraction scientific journal contributing to the ML community.
 - [Thesis](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1294&context=scschcomdis), [Paper](https://ceur-ws.org/Vol-3554/), [Paper](https://www.mdpi.com/2504-4990/5/4/72), [GitHub](https://github.com/rob-sullivan/tu060/tree/research)
-- keywords: 
+- keywords: Deep Q-Learning, SHAP, deep learning, vision, pyTorch, model optimisation
 
 ## Projects 🚀
 
