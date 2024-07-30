@@ -14,10 +14,10 @@
 | **Languages**                  | Python, C++, C#, JavaScript, SQL                                                            |
 | **AI/ML Technologies**         | HuggingFace, Transformers, TensorFlow, Keras, PyTorch, scikit-learn, Jupyter, Pandas, NumPy |
 | **Techniques**                 | Machine Learning (regression, classification), Deep Learning, Q-Learning                    |
-| **Frameworks and Libraries**   | Flask, Django, React.Js, Vue.js                                                             |
-| **Web Technologies**           | GCP, AWS, Azure, RESTful APIs                                                               |
+| **Frameworks and Libraries**   | Flask, Django, React.Js, Vue.js, Tkinter, matplotlib, seaborn                               |
+| **Web Technologies**           | GCP, AWS, Azure, RESTful APIs, beautifulSoup                                                |
 | **Containerization and CI/CD** | Docker, GitLab CI/CD                                                                        |
-| **Software and Tools**         | Airflow, MySQL, Oracle, MS SQL                                                              |
+| **Software and Tools**         | Airflow, MySQL, Oracle, MS SQL, hdf5                                                        |
 | **Operating Systems**          | Windows, Linux                                                                              |
 | **Soft Skills**                | Self-Starter, Problem Solving, Effective                                                    |
 
@@ -30,7 +30,8 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - I used Deep SHAP to explain a sub-component of deep Q learning called Experience Replay and show how its size can be tuned to improve efficiency of a Reinforcement Learning algorithm.
 - Was honoured as the first in TU Dublin's School of computer science to publish in a journal during an MSc.
 - Published this research and presented it at a conference in Lisbon, leading to it being featured on the cover of Machine Learning and Knowledge Extraction scientific journal contributing to the ML community.
-- [Thesis](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1294&context=scschcomdis), [Paper](https://ceur-ws.org/Vol-3554/), [Paper](https://www.mdpi.com/2504-4990/5/4/72)
+- [Thesis](https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1294&context=scschcomdis), [Paper](https://ceur-ws.org/Vol-3554/), [Paper](https://www.mdpi.com/2504-4990/5/4/72), [GitHub](https://github.com/rob-sullivan/tu060/tree/research)
+- keywords: Deep Q-Learning, SHAP, deep learning, vision, pyTorch, model optimisation
 
 ## Projects 🚀
 
@@ -38,12 +39,14 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 
 - Use YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. Go frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
 - [GitHub](https://github.com/rob-sullivan/ai/tree/football-tracking)
+- Keywords: YOLO, deep learning, vision, llm, django
 
 ### AI PowerPoint Presentation Generator
 
 - Built a flask application that integrates with ChatGPT, DALLE and Microsoft 365 ecosystem.
 - Demonstrated it and underlying theory of multimodal large language models to US based lawyers
 - [GitHub](https://github.com/rob-sullivan/50-chatgpt-projects/tree/main/presentation_generator), [Video Presentation](https://www.youtube.com/watch?v=Ttg6E8QhO0o)
+- keywords: mm-llm, python-pptx, Tkinter
 
 ### AI Tax Assistant
 
@@ -51,11 +54,13 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - Built a flask application to allow corpus to be accessed by ChatGPT.
 - Presented it and underlying theory to members of the Computer Division of Engineer’s Ireland
 - [GitHub](https://github.com/rob-sullivan/ai/tree/nlp/nlp/nlp-project-02), [GitHub](https://github.com/rob-sullivan/50-chatgpt-projects/tree/main/01-chatbot), [Video Presentation](https://www.youtube.com/watch?v=OuDSJ6tcSYY)
+- keywords: llm, beautifulSoup, Flask, threading, xml, API
 
 ### H&M Clothing Recommendation System
 
 - Explored data and built a collaborate filtering-based recommendation system by feature engineering marketing metrics and training a different ML models to predict what products customers will buy in the next 7 days.
 - [GitHub](https://github.com/rob-sullivan/tu060/blob/machine-learning/ca-2-recommender/attempt-2/hm-recommender.ipynb)
+- keywords: seaborn, scikit-learn, random forest, svm, knn, hdf5
 
 ### Self-Driving Car
 
@@ -63,6 +68,7 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - Trained a Deep Q-Learning agent to navigate from top left to bottom right without driving on sand
 - Presented it and underlying theory to a Dublin based Computer Club called Tog
 - [GitHub](https://github.com/rob-sullivan/ai/tree/artificial-intelligence-az/ai-project-2-ql-self-driving), [Video Presentation](https://www.youtube.com/watch?v=EMRRbb8yxSE)
+- keywords: numpy, pyTorch, matplotlib, Kivy, deep learning, vision
 
 ## Achievements 🏆
 
