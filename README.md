@@ -17,7 +17,7 @@
 | **Frameworks and Libraries**   | Flask, Django, React.Js, Vue.js, Tkinter, matplotlib, seaborn                               |
 | **Web Technologies**           | GCP, AWS, Azure, RESTful APIs, beautifulSoup                                                |
 | **Containerization and CI/CD** | Docker, GitLab CI/CD                                                                        |
-| **Software and Tools**         | Airflow, MySQL, Oracle, MS SQL, hdf5                                                        |
+| **Software and Tools**         | Airflow, MySQL, Oracle, MS SQL, sparks                                                      |
 | **Operating Systems**          | Windows, Linux                                                                              |
 | **Soft Skills**                | Self-Starter, Problem Solving, Effective                                                    |
 
