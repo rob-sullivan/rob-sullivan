@@ -2,7 +2,7 @@
 
 ## About me 💬
 
-- My name is <b>Rob</b> and I am an experienced Data Scientist with prior 4 years of experience in the MedTech industry, working as a Senior Data Analyst creating and wrangling large machine datasets to reduce costs, carbon emissions, energy, and water consumption.
+- My name is <b>Rob</b> and I am an experienced Data Scientist in fintech with prior 4 years of experience in the MedTech industry, working as a Senior Data Analyst creating and wrangling large machine datasets to reduce costs, carbon emissions, energy, and water consumption.
 - In my current role as a Machine Learning Engineer at PitchedIt, my work involves using **Computer Vision**, **Deep Learning**, **NLP**, traditional **Machine Learning** and collaborating with other software engineers and business leads to reduce poor applications on the platform.
 - I describe myself as a self starter and team player seeking to help drive innovative solutions with Data Science and ML.
 - With a first-class honours Data Science Master’s degree and published research, I can address intricate AI challenges and provide effective solutions.
