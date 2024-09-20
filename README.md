@@ -2,24 +2,23 @@
 
 ## About me 💬
 
-- My name is <b>Rob</b> and I am an experienced Data Scientist in fintech, with prior 4 years of experience in the MedTech industry working as a Senior Data Analyst creating and wrangling large machine datasets to reduce costs, carbon emissions, energy, and water consumption.
-- In my current role as a Machine Learning Engineer at PitchedIt, my work involves using **Computer Vision**, **Deep Learning**, **NLP**, traditional **Machine Learning** and collaborating with other software engineers and business leads to reduce poor applications on the platform.
-- I describe myself as a self starter and team player seeking to help drive innovative solutions with Data Science and ML.
-- With a first-class honours Data Science Master’s degree and published research, I can address intricate AI challenges and provide effective solutions.
+- My name is <b>Rob</b>, a Data Scientist with experience in training and deploying a deep learning model to predict startup valuations, reducing poor-quality funding applications by 80%. Over 4 years as a Senior Data Analyst, specialising in creating, wrangling, and analysing large machine datasets, generating €200,000 in annual cost savings.
+- Masters in Data Science with published, peer-reviewed research cited in scientific journals. - Seeking a challenging data scientist role to leverage my expertise in machine learning and deep learning to drive business impact.
 
 ## Skills 💻
 
-|                                |                                                                                             |
-| ------------------------------ | ------------------------------------------------------------------------------------------- |
-| **Languages**                  | Python, C++, C#, JavaScript, SQL                                                            |
-| **AI/ML Technologies**         | HuggingFace, Transformers, TensorFlow, Keras, PyTorch, scikit-learn, Jupyter, Pandas, NumPy |
-| **Techniques**                 | Machine Learning (regression, classification), Deep Learning, Q-Learning                    |
-| **Frameworks and Libraries**   | Flask, Django, React.Js, Vue.js, Tkinter, matplotlib, seaborn                               |
-| **Web Technologies**           | GCP, AWS, Azure, RESTful APIs, beautifulSoup                                                |
-| **Containerization and CI/CD** | Docker, GitLab CI/CD                                                                        |
-| **Software and Tools**         | Airflow, MySQL, Oracle, MS SQL, sparks                                                      |
-| **Operating Systems**          | Windows, Linux                                                                              |
-| **Soft Skills**                | Self-Starter, Problem Solving, Effective                                                    |
+|                      |                                                                         |
+| -------------------- | ----------------------------------------------------------------------- |
+| **Languages**        | python, sql                                                             |
+| **Data Handling**    | pandas, numpy, airflow                                                  |
+| **Visualisation**    | matplotlib, seaborn, plotly, react                                      |
+| **Communication**    | tableau, power bi, jupyter, flask, django                               |
+| **Machine Learning** | scikit-learn                                                            |
+| **Deep Learning**    | tensorflow, pytorch                                                     |
+| **CI/CD**            | docker, github actions                                                  |
+| **Big Data**         | Sparks, hadoop                                                          |
+| **Cloud**            | gcp, aws, azure                                                         |
+| **Environments**     | linux, mac, windows, colab, sagemaker, databricks, sas enterprise miner |
 
 Whether you need a self-starter for AI readiness or a team player to enhance and maintain systems, my examples illustrate my abilities to tackle complex AI challenges and offer effective solutions for data-driven decision-making, intelligent applications, and valuable insights.
 
@@ -35,18 +34,19 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 
 ## Projects 🚀
 
-### Football Tracking AI Sports Journalist
+### H&M Clothing Recommendation System
 
-- Use YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. Go frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
-- [GitHub](https://github.com/rob-sullivan/ai/tree/football-tracking)
-- Keywords: YOLO, deep learning, vision, llm, django
+- Explored data and built a collaborate filtering-based recommendation system by feature engineering marketing metrics and training a different ML models to predict what products customers will buy in the next 7 days.
+- keywords: seaborn, scikit-learn, random forest, svm, knn, hdf5
+- Links: [GitHub](https://github.com/rob-sullivan/tu060/blob/machine-learning/ca-2-recommender/attempt-2/hm-recommender.ipynb)
 
-### AI PowerPoint Presentation Generator
+### Self-Driving Car
 
-- Built a flask application that integrates with ChatGPT, DALLE and Microsoft 365 ecosystem.
-- Demonstrated it and underlying theory of multimodal large language models to US based lawyers
-- [GitHub](https://github.com/rob-sullivan/50-chatgpt-projects/tree/main/presentation_generator), [Video Presentation](https://www.youtube.com/watch?v=Ttg6E8QhO0o)
-- keywords: mm-llm, python-pptx, Tkinter
+- Built a virtual training environment using Tkinter where user can draw sand to represent roads
+- Trained a Deep Q-Learning agent to navigate from top left to bottom right without driving on sand
+- Presented it and underlying theory to a Dublin based Computer Club called Tog
+- [GitHub](https://github.com/rob-sullivan/ai/tree/artificial-intelligence-az/ai-project-2-ql-self-driving), [Video Presentation](https://www.youtube.com/watch?v=EMRRbb8yxSE)
+- keywords: numpy, pyTorch, matplotlib, Kivy, deep learning, vision
 
 ### AI Tax Assistant
 
@@ -56,19 +56,18 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 - [GitHub](https://github.com/rob-sullivan/ai/tree/nlp/nlp/nlp-project-02), [GitHub](https://github.com/rob-sullivan/50-chatgpt-projects/tree/main/01-chatbot), [Video Presentation](https://www.youtube.com/watch?v=OuDSJ6tcSYY)
 - keywords: llm, beautifulSoup, Flask, threading, xml, API
 
-### H&M Clothing Recommendation System
+### AI PowerPoint Presentation Generator
 
-- Explored data and built a collaborate filtering-based recommendation system by feature engineering marketing metrics and training a different ML models to predict what products customers will buy in the next 7 days.
-- [GitHub](https://github.com/rob-sullivan/tu060/blob/machine-learning/ca-2-recommender/attempt-2/hm-recommender.ipynb)
-- keywords: seaborn, scikit-learn, random forest, svm, knn, hdf5
+- Built a flask application that integrates with ChatGPT, DALLE and Microsoft 365 ecosystem.
+- Demonstrated it and underlying theory of multimodal large language models to US based lawyers
+- [GitHub](https://github.com/rob-sullivan/50-chatgpt-projects/tree/main/presentation_generator), [Video Presentation](https://www.youtube.com/watch?v=Ttg6E8QhO0o)
+- keywords: mm-llm, python-pptx, Tkinter
 
-### Self-Driving Car
+### Football Tracking AI Sports Journalist
 
-- Built a virtual training environment using Tkinter where user can draw sand to represent roads
-- Trained a Deep Q-Learning agent to navigate from top left to bottom right without driving on sand
-- Presented it and underlying theory to a Dublin based Computer Club called Tog
-- [GitHub](https://github.com/rob-sullivan/ai/tree/artificial-intelligence-az/ai-project-2-ql-self-driving), [Video Presentation](https://www.youtube.com/watch?v=EMRRbb8yxSE)
-- keywords: numpy, pyTorch, matplotlib, Kivy, deep learning, vision
+- Use YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. Go frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
+- [GitHub](https://github.com/rob-sullivan/ai/tree/football-tracking)
+- Keywords: YOLO, deep learning, vision, llm, django
 
 ## Achievements 🏆
 
