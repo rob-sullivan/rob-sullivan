@@ -2,7 +2,7 @@
 
 ## About me 💬
 
-- My name is <b>Rob</b>, a Data Scientist with experience in training and deploying a deep learning model to predict startup valuations, reducing poor-quality funding applications by 80%. Over 4 years as a Senior Data Analyst, specialising in creating, wrangling, and analysing large machine datasets, generating €200,000 in annual cost savings.
+- My name is <b>Rob</b>, a Data Scientist with experience in training and deploying a deep learning model to predict startup valuations, reducing poor-quality funding applications by 80%. Over 3 years as a Data Analyst, specialising in creating, wrangling, and analysing large machine datasets, generating €200,000 in annual cost savings.
 - Masters in Data Science with published, peer-reviewed research cited in scientific journals. - Seeking a challenging data scientist role to leverage my expertise in machine learning and deep learning to drive business impact.
 
 ## Skills 💻
