@@ -2,10 +2,10 @@
 
 ## About me 💬
 
-- I’m <b>Rob</b>, a Data Scientist with 4 years of experience in the finance sector, which includes fintech and a pillar bank. I specialise in building models to evaluate marketing campaigns and identify business opportunities. 
-- Previously, at a fintech startup, I trained and deployed a deep learning model with explainability to predict startup valuations, reducing poor-quality funding applications by 80%, and giving feedback. Before that, I spent 3 years as a sustainability portfolio manager, creating, wrangling, and analysing large machine datasets, delivering insights that generated €200,000 in annual cost savings. 
-- I hold a Master’s in Data Science, with peer-reviewed research published and cited in scientific journals. I’ve won awards, gave talks and held committee roles to help leaders navigate AI.
-- Seeking a challenging data scientist role to leverage my machine learning and deep learning expertise to drive business impact.
+- I’m <b>Rob</b>, a Data Scientist with 4 years of experience in the finance sector, which includes fintech and a pillar bank. I specialise in building models to evaluate marketing campaigns, identify business opportunities, and ensure AI models are risk compliant.
+- Previously, at a fintech startup, I trained and deployed a deep learning model with explainability to predict startup valuations, reducing poor-quality funding applications by 80%, and giving feedback. Before that, I spent 3 years as a sustainability portfolio manager, creating, wrangling, and analysing large machine datasets, leading teams, and delivering insights that generated €200,000 in annual cost savings. 
+- I hold a Master’s in Data Science, with peer-reviewed research published and cited in scientific journals. I’ve won an AI award, gave talks and chaired committees to help leaders navigate AI.
+- Seeking a challenging data scientist role to leverage my expertise to drive business impact.
 
 ## Skills 💻
 
