@@ -2,7 +2,7 @@
 
 ## About me 💬
 
-- I’m <b>Rob</b>, a Data Scientist with 4 years in finance, driving over €7.5M across financial impact, loss avoidance. Delivered an explainable deep learning vision model cutting low-quality funding applications by 80%, plus energy monitoring savings of €200k annually. MSc, cover-featured published researcher, public speaker, AI award winner, and Chair of Engineers Ireland’s Computing Division. Seeking to scale predictive cyber risk models and threat analytics using advanced ML.
+- I’m <b>Rob</b>, a Data Scientist with 4 years in finance, driving over €7.5M across financial impact, loss avoidance. Delivered an explainable deep learning vision model cutting low-quality funding applications by 80%, plus energy monitoring savings of €200k annually. MSc, cover-featured published researcher, public speaker, AI award winner, and Chair of Engineers Ireland’s Computing Division. Seeking to scale predictive models and analytics using advanced ML.
 
 ## Skills 💻
 
