@@ -2,10 +2,7 @@
 
 ## About me 💬
 
-- I’m <b>Rob</b>, a Data Scientist with 4 years of experience in the finance sector, which includes fintech and a pillar bank. I specialise in building models to evaluate marketing campaigns, identify business opportunities, and ensure AI models are risk compliant.
-- Previously, at a fintech startup, I trained and deployed a deep learning model with explainability to predict startup valuations, reducing poor-quality funding applications by 80%, and giving feedback. Before that, I spent 3 years as a sustainability portfolio manager, creating, wrangling, and analysing large machine datasets, leading teams, and delivering insights that generated €200,000 in annual cost savings. 
-- I hold a Master’s in Data Science, with peer-reviewed research published and cited in scientific journals. I’ve won an AI award, gave talks and chaired committees to help leaders navigate AI.
-- Seeking a challenging data scientist role to leverage my expertise to drive business impact.
+- I’m <b>Rob</b>, a Data Scientist with 4 years in finance, driving over €7.5M across financial impact, loss avoidance. Delivered an explainable deep learning vision model cutting low-quality funding applications by 80%, plus energy monitoring savings of €200k annually. MSc, cover-featured published researcher, public speaker, AI award winner, and Chair of Engineers Ireland’s Computing Division. Seeking to scale predictive cyber risk models and threat analytics using advanced ML.
 
 ## Skills 💻
 
@@ -67,12 +64,15 @@ Whether you need a self-starter for AI readiness or a team player to enhance and
 
 ### Football Tracking AI Sports Journalist
 
-- Use YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. Go frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
+- Currently, I'm using YOLO a pretrained deep learning computer vision model to detect players and ball in video clips. It goes frame by frame to track their changes. Extract stats such as % ball possession, player formations, etc to create a 2d pitch allowing user to playback key events. Pass this as context for ChatGPT via API to allow user to query.
 - [GitHub](https://github.com/rob-sullivan/ai/blob/football-tracking/football-tracking/football_track.ipynb)
 - Keywords: YOLO, deep learning, vision, llm, django
 
 ## Achievements 🏆
-
+### Chair, Electronic & Computing Division of Engineers Ireland
+- Was elected chair of the E&C division
+- We issue advice to government on industry trends, run talks, tours and hackathons around AI, Data, cybersecurity, etc.
+- I steer a committee of experts from different industry sectors from hardware, cybersecurity, all the way to AI.
 ### MSc Data Science and Higher Diploma Computer Science
 
 - Received a first-class Honors (1.0) in both.
